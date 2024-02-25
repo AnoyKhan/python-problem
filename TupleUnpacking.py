@@ -1,5 +1,5 @@
 def calc(x):
-                          #variable jei koita, fund er moddhe same sei koita variable nite hobe
+#variable jei koita, fund er moddhe same sei koita variable nite hobe
     perameter = x * 4
     area = x * x
     return perameter, area

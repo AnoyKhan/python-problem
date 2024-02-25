@@ -6,4 +6,3 @@ def string_reverse(str1):
         index = index - 1
         return rstr1
     print(string_reverse(rstr1))
-
